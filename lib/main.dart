@@ -19,10 +19,10 @@ class MyApp extends StatelessWidget {
             children: <Widget>[
               const CircleAvatar(
                 radius: 100.0,
-                backgroundImage: AssetImage('images/ThanosPython.png'),
+                backgroundImage: AssetImage('images/M-Codeur.png'),
               ),
               const Text(
-                'Thanos Code',
+                'Manu Codeur',
                 style: TextStyle(
                     fontFamily: 'DancingScript',
                     fontSize: 30.0,
